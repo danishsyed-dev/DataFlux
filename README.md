@@ -169,9 +169,3 @@ The data processing layer in [`src/utils/data-processing.ts`](src/utils/data-pro
 ## 📝 License
 
 This project is licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0).
-
-## 👤 Author
-
-**Danish Syed** — [@danishsyed-dev](https://github.com/danishsyed-dev)
-
----
